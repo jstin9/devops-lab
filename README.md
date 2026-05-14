@@ -4,4 +4,6 @@
 
 2. [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool) ✅
 
+3. [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow) ✅
+
 All projects can be found on [roadmap.sh](https://roadmap.sh/devops/projects)
