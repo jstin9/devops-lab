@@ -1,0 +1,23 @@
+name: GitHub Actions Deployment
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'github-pages-deployment/index.html'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Repository
+              uses: actions/checkout@v4
+            - name: Upload artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                path: github-pages-deployment/index.html
+            - name: Deploy to GitHub Pages
+              uses: actions/deploy-pages@v4
