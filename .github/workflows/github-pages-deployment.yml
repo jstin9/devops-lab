@@ -5,8 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'github-pages-deployment/**'
-      - '.github/workflows/github-pages-deployment.yml'
+      - 'github-pages-deployment/index.html'
 permissions:
   contents: read
   pages: write
