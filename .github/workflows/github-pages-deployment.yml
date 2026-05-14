@@ -18,6 +18,6 @@ jobs:
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
               with:
-                path: github-pages-deployment/index.html
+                path: github-pages-deployment/
             - name: Deploy to GitHub Pages
               uses: actions/deploy-pages@v4
