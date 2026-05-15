@@ -5,7 +5,7 @@ A bash script to analyse basic server performance stats.
 1. **Clone the repository**
     ```
     git clone https://github.com/jstin9/devops-lab.git
-    cd server-performance-stats
+    cd devops-lab/server-performance-stats/
     ```
 
 2. **Make the script executable**
