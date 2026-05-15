@@ -5,7 +5,7 @@ A bash function to archive a log directory by compressing it into a timestamped 
 1. **Clone the repository**
     ```
     git clone https://github.com/jstin9/devops-lab.git
-    cd log-archive-tool
+    cd devops-lab/log-archive-tool/
     ```
 
 2. **Make the script executable**
