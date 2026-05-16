@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "------------------------"
 echo "Server Performace Stats:"
 echo "------------------------"
