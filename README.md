@@ -8,4 +8,6 @@
 
 4. [Simple Monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard) ✅
 
+5. [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile) ✅
+
 All projects can be found on [roadmap.sh](https://roadmap.sh/devops/projects)
