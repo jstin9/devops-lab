@@ -1,3 +1,5 @@
+#!/bin/bash
+
 log-archive() {
   LOG_DIRECTORY=$1
   DATE=$(date +%Y%m%d_%H%M%S)
