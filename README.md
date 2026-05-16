@@ -10,4 +10,6 @@
 
 5. [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile) ✅
 
+6. [EC2 Instance](https://roadmap.sh/projects/ec2-instance) ✅
+
 All projects can be found on [roadmap.sh](https://roadmap.sh/devops/projects)
