@@ -6,4 +6,6 @@
 
 3. [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow) ✅
 
+4. [Simple Monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard) ✅
+
 All projects can be found on [roadmap.sh](https://roadmap.sh/devops/projects)
