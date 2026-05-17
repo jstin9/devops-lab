@@ -1,0 +1,14 @@
+[Unit]
+Description=My dummy service  
+
+[Service]
+Restart=always
+User=jstn9
+Group=jstn9 
+ExecStart=/usr/local/bin/dummy.sh
+
+#StandardOutput=append:/var/log/dummy-service.log
+#StandardError=append:/var/log/dummy-service.log
+
+[Install]
+WantedBy=multi-user.target
