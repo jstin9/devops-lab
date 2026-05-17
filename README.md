@@ -12,4 +12,6 @@
 
 6. [EC2 Instance](https://roadmap.sh/projects/ec2-instance) ✅
 
+7. [Dummy Systemd Service](https://roadmap.sh/projects/dummy-systemd-service) ✅
+
 All projects can be found on [roadmap.sh](https://roadmap.sh/devops/projects)
